@@ -97,4 +97,4 @@ The data model and storage layer have no dependency on the CLI layer, which keep
 
 ## License
 
-MIT (or update to your preference).
+MIT
